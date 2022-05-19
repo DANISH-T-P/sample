@@ -86,7 +86,7 @@ body{
     position: absolute;
     object-fit: contain;
     left: 50%;
-    top: 65%;
+    top: 55%;
     transform: translate(-50%, -50%);
     font-family: ProximaNovaA;
 }
