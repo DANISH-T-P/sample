@@ -81,12 +81,13 @@ body{
 }
 
 .div1-t2 {
-    font-size: x-large;
+    font-size: 40px;
     color: aliceblue;
     position: absolute;
     object-fit: contain;
     left: 50%;
     top: 55%;
+    margin-top: 0%;
     transform: translate(-50%, -50%);
     font-family: ProximaNovaA;
 }
